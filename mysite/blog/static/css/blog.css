@@ -229,6 +229,11 @@ body, html {
 	}
 }
 
+
+
+
+
+
 /* General Styling */
 body {
     background-color: #f7f0f5; /* Soft off-white for a light, elegant background */
@@ -237,6 +242,9 @@ body {
     margin: 0;
     padding: 0;
 	padding-top: 60px;
+
+
+    /* new */
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -290,6 +298,8 @@ a:hover {
 /* Content Styling */
 .content {
     margin-top: 20px;
+    padding-top: 5px;
+    
 }
 
 .blog_posts {
@@ -550,5 +560,8 @@ form input {
 .post p a:hover {
     color: #8f857d; /* Taupe for hover */
 }
+
+
+
 
 
